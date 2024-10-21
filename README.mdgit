@@ -1,0 +1,1 @@
+"# pygame_Hell"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:PlexTDM/pygame_Hell.gitgit push -u or

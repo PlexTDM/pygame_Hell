@@ -1,0 +1,21 @@
+/assets/Boss
+/assets/Animals/
+/assets/Monsters/*
+!/assets/Monsters/AxolotBlue
+assets/Backgrounds/*
+!/assets/Backgrounds/map1.tmx
+assets/Musics/
+assets/Sounds/
+/__pycache__
+/__pycache__/*
+/.pytest_cache
+/assets/Characters/*
+!/assets/characters/Spirit
+__pycache__/
+*.py[cod]
+*$py.class
+!/assets/Backgrounds/Main Menu/
+!assets/Monsters/Skull/
+/assets/FX
+!/assets/FX/menu/*
+/assets/Items
